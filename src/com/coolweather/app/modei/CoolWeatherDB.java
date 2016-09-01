@@ -5,8 +5,7 @@ import java.util.List;
 
 import com.coolweather.app.db.CoolWeatherOpenHelper;
 
-import android.R.id;
-import android.R.integer;
+
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
