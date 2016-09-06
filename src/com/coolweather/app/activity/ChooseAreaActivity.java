@@ -3,7 +3,6 @@ package com.coolweather.app.activity;
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.security.auth.PrivateCredentialPermission;
 
 
 import com.coolweather.app.R;
@@ -147,6 +146,7 @@ public class ChooseAreaActivity extends Activity {
 	 * 
 	 */
 	private void queryFromServer(final String code, final String type) {
+		String address;
 		
 	}
 	
